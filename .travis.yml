@@ -1,5 +1,5 @@
 os: linux
-script: geometry_test
+script: Makefile
 language: c
 sudo: required
 install: 
