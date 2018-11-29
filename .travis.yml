@@ -1,0 +1,5 @@
+os: linux
+script: test
+language: c
+sudo: true
+install: make get -deps
