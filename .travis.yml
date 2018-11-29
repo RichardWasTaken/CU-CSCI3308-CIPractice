@@ -1,5 +1,5 @@
 os: linux
-script: test
+script: geometry_test
 language: c
-sudo: true
-install: make get -deps
+sudo: required
+install: 
