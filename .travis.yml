@@ -2,4 +2,4 @@ os: linux
 script: make test && ./geometry_test
 language: c
 sudo: required
-install: check
+install: apt-get install check
